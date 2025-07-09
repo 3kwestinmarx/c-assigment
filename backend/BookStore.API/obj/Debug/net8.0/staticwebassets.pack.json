@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kjay computers\\Desktop\\project-bolt-github-vcobgkhd\\project\\backend\\BookStore.API\\wwwroot\\uploads\\books\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.docx",
+      "PackagePath": "staticwebassets\\uploads\\books\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.docx"
+    },
+    {
+      "Id": "C:\\Users\\kjay computers\\Desktop\\project-bolt-github-vcobgkhd\\project\\backend\\BookStore.API\\wwwroot\\uploads\\images\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookStore.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookStore.API.props",
+      "PackagePath": "build\\BookStore.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.API.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookStore.API.props",
+      "PackagePath": "buildTransitive\\BookStore.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

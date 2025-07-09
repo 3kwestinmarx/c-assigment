@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "vSn9fz39qVukrR/syaKrCZ1K1c/UgtREpnnd2eR69Oo=",
+  "Source": "BookStore.API",
+  "BasePath": "_content/BookStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookStore.API\\wwwroot",
+      "Source": "BookStore.API",
+      "ContentRoot": "C:\\Users\\kjay computers\\Desktop\\project-bolt-github-vcobgkhd\\project\\backend\\BookStore.API\\wwwroot\\",
+      "BasePath": "_content/BookStore.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kjay computers\\Desktop\\project-bolt-github-vcobgkhd\\project\\backend\\BookStore.API\\wwwroot\\uploads\\books\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.docx",
+      "SourceId": "BookStore.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kjay computers\\Desktop\\project-bolt-github-vcobgkhd\\project\\backend\\BookStore.API\\wwwroot\\",
+      "BasePath": "_content/BookStore.API",
+      "RelativePath": "uploads/books/7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\books\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.docx"
+    },
+    {
+      "Identity": "C:\\Users\\kjay computers\\Desktop\\project-bolt-github-vcobgkhd\\project\\backend\\BookStore.API\\wwwroot\\uploads\\images\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.png",
+      "SourceId": "BookStore.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kjay computers\\Desktop\\project-bolt-github-vcobgkhd\\project\\backend\\BookStore.API\\wwwroot\\",
+      "BasePath": "_content/BookStore.API",
+      "RelativePath": "uploads/images/7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\7e5e97b6-7a69-4e2b-85a8-ca757cca58bd-20250708024432.png"
+    }
+  ]
+}
