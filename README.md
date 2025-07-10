@@ -24,7 +24,7 @@ replace connectionstring
 
 password is in appsettings.json
 
-dotnetrun
+dotnet run
 
 technologies used 
 
