@@ -21,7 +21,8 @@ replace connectionstring
     "DefaultConnection": "Host=db.pwbpbsyagyoytniidoah.supabase.co;Database=postgres;Username=postgres;Password=[YOUR-PASSWORD];SSL Mode=Require;Trust Server Certificate=true"
   }
 }
-
+ipv4
+"DefaultConnection": "User Id=postgres.pwbpbsyagyoytniidoah;Password=EbYsu1PduxksFYxa;Server=aws-0-eu-north-1.pooler.supabase.com;Port=5432;Database=postgres"
 password is in appsettings.json
 
 dotnet run
