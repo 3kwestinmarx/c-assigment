@@ -84,7 +84,7 @@ app.UseHttpsRedirection();
 // Enable static file serving for uploaded files
 app.UseStaticFiles();
 
-app.UseCors("AllowReactApp");
+app.UseCors("AllowAll");
 
 app.UseAuthentication();
 app.UseAuthorization();
