@@ -81,7 +81,7 @@ namespace BookStore.API.Controllers
                 }
 
                 // Generate the public URL for the uploaded file
-                var fileUrl = $"{Request.Scheme}://{Request.Host}/uploads/images/{fileName}";
+                var fileUrl = $"{Request.Scheme}://c-assigment-1.onrender.com/uploads/images/{fileName}";
                 
                 _logger.LogInformation("Image uploaded successfully: {FileName} by user {UserId}", fileName, userId);
 
