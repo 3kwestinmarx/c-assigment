@@ -80,8 +80,8 @@ namespace BookStore.API.Controllers
                     await file.CopyToAsync(stream);
                 }
 
-                // Generate the public URL for the uploaded file
-                var fileUrl = $"{Request.Scheme}://c-assigment-1.onrender.com/uploads/images/{fileName}";
+                // Generate the public URL for the uploaded file using dynamic host
+                var fileUrl = $"{Request.Scheme}://{Request.Host}/uploads/images/{fileName}";
                 
                 _logger.LogInformation("Image uploaded successfully: {FileName} by user {UserId}", fileName, userId);
 
@@ -148,8 +148,8 @@ namespace BookStore.API.Controllers
                     await file.CopyToAsync(stream);
                 }
 
-                // Generate the public URL for the uploaded file
-                var fileUrl = $"{Request.Scheme}://c-assigment-1.onrender.com/uploads/books/{fileName}";
+                // Generate the public URL for the uploaded file using dynamic host
+                var fileUrl = $"{Request.Scheme}://{Request.Host}/uploads/books/{fileName}";
                 
                 _logger.LogInformation("Book file uploaded successfully: {FileName} by user {UserId}", fileName, userId);
 
